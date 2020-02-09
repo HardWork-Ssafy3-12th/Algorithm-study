@@ -8,7 +8,7 @@ https://www.acmicpc.net/problem/2567
 https://www.acmicpc.net/problem/2991
 
 ## 백준 11399 ATM
-https://www.acmicpc.net/problem/4013
+https://www.acmicpc.net/problem/11399
 
 ## 백준 8958 OX퀴즈
 https://www.acmicpc.net/problem/8958
